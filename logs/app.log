@@ -1,0 +1,2289 @@
+2024-05-10 04:12:48 - root - INFO - Logging configured.
+2024-05-10 04:12:48 - root - INFO - Environment variables  loaded.
+2024-05-10 04:12:48 - root - INFO - CommandHandler initialized.
+2024-05-10 04:13:22 - root - ERROR - Error importing plugin addition: No module named 'app.commands'
+2024-05-10 04:13:22 - root - ERROR - Error importing plugin divide: No module named 'app.commands'
+2024-05-10 04:13:22 - root - ERROR - Error importing plugin exit: No module named 'app.commands'
+2024-05-10 04:13:22 - root - ERROR - Error importing plugin goodbye: No module named 'app.commands'
+2024-05-10 04:13:22 - root - ERROR - Error importing plugin greet: No module named 'app.commands'
+2024-05-10 04:13:22 - root - ERROR - Error importing plugin menu: No module named 'app.commands'
+2024-05-10 04:13:22 - root - ERROR - Error importing plugin multiplication: No module named 'app.commands'
+2024-05-10 04:13:23 - root - ERROR - Error importing plugin substract: No module named 'app.commands'
+2024-05-10 04:13:23 - root - ERROR - Error loading history command load: No module named 'app.commands'
+2024-05-10 04:13:23 - root - ERROR - Error loading history command save: No module named 'app.commands'
+2024-05-10 04:13:23 - root - ERROR - Error loading history command clear: No module named 'app.commands'
+2024-05-10 04:13:23 - root - ERROR - Error loading history command delete: No module named 'app.commands'
+2024-05-10 04:13:23 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:15:48 - root - INFO - Application exit.
+2024-05-10 04:15:48 - root - INFO - Application shutdown.
+2024-05-10 04:39:36 - root - INFO - Logging configured.
+2024-05-10 04:39:36 - root - INFO - Environment variables  loaded.
+2024-05-10 04:39:36 - root - INFO - CommandHandler initialized.
+2024-05-10 04:39:39 - root - INFO - Command 'addition' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'divide' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'exit' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'greet' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'menu' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'substract' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:39:39 - root - INFO - History command 'load' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:39:39 - root - INFO - History command 'save' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:39:39 - root - INFO - History command 'clear' registered.
+2024-05-10 04:39:39 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:39:39 - root - INFO - History command 'delete' registered.
+2024-05-10 04:39:39 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:40:16 - root - INFO - Executing command: menu
+2024-05-10 04:40:16 - root - INFO - Displaying available commands to the user.
+2024-05-10 04:40:23 - root - INFO - Executing command: addition
+2024-05-10 04:40:23 - root - INFO - Executing AddCommand
+2024-05-10 04:40:32 - root - INFO - AddCommand execution successful: 76.0 + 4.0 = 80.0
+2024-05-10 04:40:32 - root - INFO - No existing calculation history found, initializing new history.
+2024-05-10 04:40:33 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:40:33 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:40:33 - root - INFO - Record added: Addition with 76.0, 4.0 = 80.0
+2024-05-10 04:40:33 - root - INFO - Addition history updated with result: 80.0
+2024-05-10 04:49:38 - root - INFO - Application exit.
+2024-05-10 04:49:38 - root - INFO - Application shutdown.
+2024-05-10 04:52:16 - root - INFO - Logging configured.
+2024-05-10 04:52:16 - root - INFO - Environment variables  loaded.
+2024-05-10 04:52:16 - root - INFO - CommandHandler initialized.
+2024-05-10 04:52:16 - root - INFO - Logging configured.
+2024-05-10 04:52:16 - root - INFO - Environment variables  loaded.
+2024-05-10 04:52:16 - root - INFO - CommandHandler initialized.
+2024-05-10 04:52:16 - root - INFO - Command 'addition' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'divide' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'exit' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'greet' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'menu' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'substract' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:52:16 - root - INFO - History command 'load' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:52:16 - root - INFO - History command 'save' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:52:16 - root - INFO - History command 'clear' registered.
+2024-05-10 04:52:16 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:52:16 - root - INFO - History command 'delete' registered.
+2024-05-10 04:52:16 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:52:16 - root - INFO - Application exit.
+2024-05-10 04:52:16 - root - INFO - Application shutdown.
+2024-05-10 04:52:17 - root - INFO - Logging configured.
+2024-05-10 04:52:17 - root - INFO - Environment variables  loaded.
+2024-05-10 04:52:17 - root - INFO - CommandHandler initialized.
+2024-05-10 04:52:17 - root - INFO - Command 'addition' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'divide' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'exit' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'greet' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'menu' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'substract' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:52:17 - root - INFO - History command 'load' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:52:17 - root - INFO - History command 'save' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:52:17 - root - INFO - History command 'clear' registered.
+2024-05-10 04:52:17 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:52:17 - root - INFO - History command 'delete' registered.
+2024-05-10 04:52:17 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:52:17 - root - INFO - Executing command: unknown_command
+2024-05-10 04:52:17 - root - WARNING - No such command: unknown_command
+2024-05-10 04:52:17 - root - INFO - Application exit.
+2024-05-10 04:52:17 - root - INFO - Application shutdown.
+2024-05-10 04:52:18 - root - INFO - Calculation history loaded from file. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:19 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Calculation history loaded from file. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_or_initialize_histor0\test_history.csv
+2024-05-10 04:52:20 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_or_initialize_histor0\test_history.csv
+2024-05-10 04:52:20 - root - INFO - Calculation history loaded from file. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 0, 0 = 0
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 1, 1 = 2
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 2, 2 = 4
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 3, 3 = 6
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 4, 4 = 8
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 5, 5 = 10
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 6, 6 = 12
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 7, 7 = 14
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 8, 8 = 16
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 9, 9 = 18
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 10, 10 = 20
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 11, 11 = 22
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 12, 12 = 24
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 13, 13 = 26
+2024-05-10 04:52:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:20 - root - INFO - Record added: Addition with 14, 14 = 28
+2024-05-10 04:52:21 - root - INFO - No existing calculation history found, initializing new history.
+2024-05-10 04:52:21 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_save_history0\test_history.csv
+2024-05-10 04:52:21 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_save_history0\test_history.csv
+2024-05-10 04:52:21 - root - INFO - Record added: Addition with 1, 1 = 2
+2024-05-10 04:52:21 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_save_history0\test_history.csv
+2024-05-10 04:52:21 - root - INFO - Calculation history loaded from file. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:21 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:21 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:21 - root - INFO - Record added: Addition with 1, 1 = 2
+2024-05-10 04:52:21 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:21 - root - INFO - Calculation history cleared.
+2024-05-10 04:52:21 - root - INFO - Calculation history loaded from file. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:21 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:21 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:21 - root - INFO - Record added: Addition with 1, 1 = 2
+2024-05-10 04:52:22 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 04:52:22 - root - INFO - Record deleted . Index: 0
+2024-05-10 04:52:22 - root - INFO - Calculation history loaded from file. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history0\test_history.csv
+2024-05-10 04:52:22 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history0\test_history.csv
+2024-05-10 04:52:22 - root - INFO - Calculation history reloaded. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history0\test_history.csv
+2024-05-10 04:52:22 - root - WARNING - Calculation history file is empty. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:17 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:17 - root - WARNING - Attempted to reload history, but calculation history file is empty. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:17 - root - INFO - Deleted records at indexes: 0
+2024-05-10 04:53:28 - root - INFO - Saving history...
+2024-05-10 04:53:28 - root - INFO - History saved successfully to C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:28 - root - INFO - Logging configured.
+2024-05-10 04:53:28 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:28 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:28 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:28 - root - INFO - Executing command: addition
+2024-05-10 04:53:28 - root - INFO - Executing AddCommand
+2024-05-10 04:53:28 - root - INFO - AddCommand execution successful: 3.0 + 5.0 = 8.0
+2024-05-10 04:53:28 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:28 - root - INFO - Record added: Addition with 3.0, 5.0 = 8.0
+2024-05-10 04:53:28 - root - INFO - Addition history updated with result: 8.0
+2024-05-10 04:53:28 - root - INFO - Application exit.
+2024-05-10 04:53:28 - root - INFO - Application shutdown.
+2024-05-10 04:53:28 - root - INFO - Logging configured.
+2024-05-10 04:53:28 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:28 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:28 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:28 - root - INFO - Executing command: addition
+2024-05-10 04:53:28 - root - INFO - Executing AddCommand
+2024-05-10 04:53:28 - root - INFO - AddCommand execution successful: 3.0 + 5.0 = 8.0
+2024-05-10 04:53:28 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:28 - root - INFO - Record added: Addition with 3.0, 5.0 = 8.0
+2024-05-10 04:53:28 - root - INFO - Addition history updated with result: 8.0
+2024-05-10 04:53:28 - root - INFO - Application exit.
+2024-05-10 04:53:28 - root - INFO - Application shutdown.
+2024-05-10 04:53:28 - root - INFO - Logging configured.
+2024-05-10 04:53:28 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:28 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:28 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:28 - root - INFO - Executing command: addition
+2024-05-10 04:53:28 - root - INFO - Executing AddCommand
+2024-05-10 04:53:28 - root - INFO - AddCommand execution successful: -3.0 + -5.0 = -8.0
+2024-05-10 04:53:28 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:28 - root - INFO - Record added: Addition with -3.0, -5.0 = -8.0
+2024-05-10 04:53:28 - root - INFO - Addition history updated with result: -8.0
+2024-05-10 04:53:28 - root - INFO - Application exit.
+2024-05-10 04:53:28 - root - INFO - Application shutdown.
+2024-05-10 04:53:28 - root - INFO - Logging configured.
+2024-05-10 04:53:28 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:28 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:28 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:28 - root - INFO - Executing command: addition
+2024-05-10 04:53:28 - root - INFO - Executing AddCommand
+2024-05-10 04:53:28 - root - INFO - AddCommand execution successful: 3.0 + -3.0 = 0.0
+2024-05-10 04:53:28 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:28 - root - INFO - Record added: Addition with 3.0, -3.0 = 0.0
+2024-05-10 04:53:28 - root - INFO - Addition history updated with result: 0.0
+2024-05-10 04:53:28 - root - INFO - Application exit.
+2024-05-10 04:53:28 - root - INFO - Application shutdown.
+2024-05-10 04:53:28 - root - INFO - Logging configured.
+2024-05-10 04:53:28 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:28 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:28 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:28 - root - INFO - Executing command: addition
+2024-05-10 04:53:28 - root - INFO - Executing AddCommand
+2024-05-10 04:53:28 - root - INFO - AddCommand execution successful: 123456789.0 + 987654321.0 = 1111111110.0
+2024-05-10 04:53:28 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:28 - root - INFO - Record added: Addition with 123456789.0, 987654321.0 = 1111111110.0
+2024-05-10 04:53:28 - root - INFO - Addition history updated with result: 1111111110.0
+2024-05-10 04:53:28 - root - INFO - Application exit.
+2024-05-10 04:53:28 - root - INFO - Application shutdown.
+2024-05-10 04:53:28 - root - INFO - Logging configured.
+2024-05-10 04:53:28 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:28 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:28 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:28 - root - INFO - Executing command: addition
+2024-05-10 04:53:28 - root - INFO - Executing AddCommand
+2024-05-10 04:53:28 - root - INFO - AddCommand execution successful: 3.5 + 2.5 = 6.0
+2024-05-10 04:53:28 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:28 - root - INFO - Record added: Addition with 3.5, 2.5 = 6.0
+2024-05-10 04:53:28 - root - INFO - Addition history updated with result: 6.0
+2024-05-10 04:53:28 - root - INFO - Application exit.
+2024-05-10 04:53:28 - root - INFO - Application shutdown.
+2024-05-10 04:53:28 - root - INFO - Logging configured.
+2024-05-10 04:53:28 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:28 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:28 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:28 - root - INFO - Executing command: addition
+2024-05-10 04:53:28 - root - INFO - Executing AddCommand
+2024-05-10 04:53:28 - root - ERROR - Error in AddCommand: Invalid input for numbers.
+2024-05-10 04:53:28 - root - INFO - Executing command: 5
+2024-05-10 04:53:28 - root - WARNING - No such command: 5
+2024-05-10 04:53:28 - root - INFO - Application exit.
+2024-05-10 04:53:28 - root - INFO - Application shutdown.
+2024-05-10 04:53:28 - root - INFO - Logging configured.
+2024-05-10 04:53:28 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:28 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:28 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:28 - root - INFO - Executing command: divide
+2024-05-10 04:53:28 - root - INFO - Executing DivideCommand
+2024-05-10 04:53:28 - root - INFO - DivideCommand execution successful: 10.0 / 2.0 = 5.0
+2024-05-10 04:53:28 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:28 - root - INFO - Record added: Divide with 10.0, 2.0 = 5.0
+2024-05-10 04:53:28 - root - INFO - Division history updated with result: 5.0
+2024-05-10 04:53:28 - root - INFO - Application exit.
+2024-05-10 04:53:28 - root - INFO - Application shutdown.
+2024-05-10 04:53:28 - root - INFO - Logging configured.
+2024-05-10 04:53:28 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:28 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:28 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:28 - root - INFO - Executing command: divide
+2024-05-10 04:53:28 - root - INFO - Executing DivideCommand
+2024-05-10 04:53:28 - root - ERROR - Attempted division by zero.
+2024-05-10 04:53:28 - root - INFO - Application exit.
+2024-05-10 04:53:28 - root - INFO - Application shutdown.
+2024-05-10 04:53:28 - root - INFO - Logging configured.
+2024-05-10 04:53:28 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:28 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:28 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:28 - root - INFO - Executing command: divide
+2024-05-10 04:53:28 - root - INFO - Executing DivideCommand
+2024-05-10 04:53:28 - root - ERROR - Invalid input for numbers.
+2024-05-10 04:53:28 - root - INFO - Executing command: five
+2024-05-10 04:53:28 - root - WARNING - No such command: five
+2024-05-10 04:53:28 - root - INFO - Application exit.
+2024-05-10 04:53:28 - root - INFO - Application shutdown.
+2024-05-10 04:53:28 - root - INFO - Logging configured.
+2024-05-10 04:53:28 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:28 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:28 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:28 - root - INFO - Executing command: divide
+2024-05-10 04:53:28 - root - INFO - Executing DivideCommand
+2024-05-10 04:53:28 - root - INFO - DivideCommand execution successful: -10.0 / 2.0 = -5.0
+2024-05-10 04:53:28 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:28 - root - INFO - Record added: Divide with -10.0, 2.0 = -5.0
+2024-05-10 04:53:28 - root - INFO - Division history updated with result: -5.0
+2024-05-10 04:53:28 - root - INFO - Application exit.
+2024-05-10 04:53:28 - root - INFO - Application shutdown.
+2024-05-10 04:53:28 - root - INFO - Logging configured.
+2024-05-10 04:53:28 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:28 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:28 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:28 - root - INFO - Executing command: divide
+2024-05-10 04:53:28 - root - INFO - Executing DivideCommand
+2024-05-10 04:53:28 - root - INFO - DivideCommand execution successful: 10.0 / -2.0 = -5.0
+2024-05-10 04:53:28 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:28 - root - INFO - Record added: Divide with 10.0, -2.0 = -5.0
+2024-05-10 04:53:28 - root - INFO - Division history updated with result: -5.0
+2024-05-10 04:53:28 - root - INFO - Application exit.
+2024-05-10 04:53:28 - root - INFO - Application shutdown.
+2024-05-10 04:53:28 - root - INFO - Logging configured.
+2024-05-10 04:53:28 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:28 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:28 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:28 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:28 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:28 - root - INFO - Executing command: divide
+2024-05-10 04:53:28 - root - INFO - Executing DivideCommand
+2024-05-10 04:53:28 - root - INFO - DivideCommand execution successful: -10.0 / -2.0 = 5.0
+2024-05-10 04:53:28 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:28 - root - INFO - Record added: Divide with -10.0, -2.0 = 5.0
+2024-05-10 04:53:28 - root - INFO - Division history updated with result: 5.0
+2024-05-10 04:53:28 - root - INFO - Application exit.
+2024-05-10 04:53:28 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Displaying available commands to the user.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: multiplication
+2024-05-10 04:53:29 - root - INFO - Executing MultiplyCommand
+2024-05-10 04:53:29 - root - INFO - MultiplyCommand execution successful: 4.0 * 5.0 = 20.0
+2024-05-10 04:53:29 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:29 - root - INFO - Record added: Multiplication with 4.0, 5.0 = 20.0
+2024-05-10 04:53:29 - root - INFO - Multiplication history updated with result: 20.0
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: multiplication
+2024-05-10 04:53:29 - root - INFO - Executing MultiplyCommand
+2024-05-10 04:53:29 - root - INFO - MultiplyCommand execution successful: 0.0 * 5.0 = 0.0
+2024-05-10 04:53:29 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:29 - root - INFO - Record added: Multiplication with 0.0, 5.0 = 0.0
+2024-05-10 04:53:29 - root - INFO - Multiplication history updated with result: 0.0
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: multiplication
+2024-05-10 04:53:29 - root - INFO - Executing MultiplyCommand
+2024-05-10 04:53:29 - root - INFO - MultiplyCommand execution successful: -3.0 * 6.0 = -18.0
+2024-05-10 04:53:29 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:29 - root - INFO - Record added: Multiplication with -3.0, 6.0 = -18.0
+2024-05-10 04:53:29 - root - INFO - Multiplication history updated with result: -18.0
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: multiplication
+2024-05-10 04:53:29 - root - INFO - Executing MultiplyCommand
+2024-05-10 04:53:29 - root - INFO - MultiplyCommand execution successful: 123456789.0 * 987654321.0 = 1.2193263111263526e+17
+2024-05-10 04:53:29 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:29 - root - INFO - Record added: Multiplication with 123456789.0, 987654321.0 = 1.2193263111263526e+17
+2024-05-10 04:53:29 - root - INFO - Multiplication history updated with result: 1.2193263111263526e+17
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: multiplication
+2024-05-10 04:53:29 - root - INFO - Executing MultiplyCommand
+2024-05-10 04:53:29 - root - INFO - MultiplyCommand execution successful: 3.5 * 2.0 = 7.0
+2024-05-10 04:53:29 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:29 - root - INFO - Record added: Multiplication with 3.5, 2.0 = 7.0
+2024-05-10 04:53:29 - root - INFO - Multiplication history updated with result: 7.0
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: multiplication
+2024-05-10 04:53:29 - root - INFO - Executing MultiplyCommand
+2024-05-10 04:53:29 - root - ERROR - Error in MultiplyCommand: Invalid input for numbers.
+2024-05-10 04:53:29 - root - INFO - Executing command: 5
+2024-05-10 04:53:29 - root - WARNING - No such command: 5
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: substract
+2024-05-10 04:53:29 - root - INFO - Executing SubtractCommand
+2024-05-10 04:53:29 - root - INFO - SubtractCommand execution successful: 10.0 - 3.0 = 7.0
+2024-05-10 04:53:29 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:29 - root - INFO - Record added: Divide with 10.0, 3.0 = 7.0
+2024-05-10 04:53:29 - root - INFO - Subtraction history updated with result: 7.0
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: substract
+2024-05-10 04:53:29 - root - INFO - Executing SubtractCommand
+2024-05-10 04:53:29 - root - INFO - SubtractCommand execution successful: 10.0 - 3.0 = 7.0
+2024-05-10 04:53:29 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:29 - root - INFO - Record added: Divide with 10.0, 3.0 = 7.0
+2024-05-10 04:53:29 - root - INFO - Subtraction history updated with result: 7.0
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: substract
+2024-05-10 04:53:29 - root - INFO - Executing SubtractCommand
+2024-05-10 04:53:29 - root - INFO - SubtractCommand execution successful: -5.0 - 3.0 = -8.0
+2024-05-10 04:53:29 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:29 - root - INFO - Record added: Divide with -5.0, 3.0 = -8.0
+2024-05-10 04:53:29 - root - INFO - Subtraction history updated with result: -8.0
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: substract
+2024-05-10 04:53:29 - root - INFO - Executing SubtractCommand
+2024-05-10 04:53:29 - root - INFO - SubtractCommand execution successful: 5.0 - -3.0 = 8.0
+2024-05-10 04:53:29 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:29 - root - INFO - Record added: Divide with 5.0, -3.0 = 8.0
+2024-05-10 04:53:29 - root - INFO - Subtraction history updated with result: 8.0
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: substract
+2024-05-10 04:53:29 - root - INFO - Executing SubtractCommand
+2024-05-10 04:53:29 - root - INFO - SubtractCommand execution successful: 0.0 - 5.0 = -5.0
+2024-05-10 04:53:29 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:29 - root - INFO - Record added: Divide with 0.0, 5.0 = -5.0
+2024-05-10 04:53:29 - root - INFO - Subtraction history updated with result: -5.0
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: substract
+2024-05-10 04:53:29 - root - INFO - Executing SubtractCommand
+2024-05-10 04:53:29 - root - INFO - SubtractCommand execution successful: 5.0 - 0.0 = 5.0
+2024-05-10 04:53:29 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:29 - root - INFO - Record added: Divide with 5.0, 0.0 = 5.0
+2024-05-10 04:53:29 - root - INFO - Subtraction history updated with result: 5.0
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: substract
+2024-05-10 04:53:29 - root - INFO - Executing SubtractCommand
+2024-05-10 04:53:29 - root - INFO - SubtractCommand execution successful: 123456789.0 - 987654321.0 = -864197532.0
+2024-05-10 04:53:29 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-0\test_load_history_failure0\test_history.csv
+2024-05-10 04:53:29 - root - INFO - Record added: Divide with 123456789.0, 987654321.0 = -864197532.0
+2024-05-10 04:53:29 - root - INFO - Subtraction history updated with result: -864197532.0
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 04:53:29 - root - INFO - Logging configured.
+2024-05-10 04:53:29 - root - INFO - Environment variables  loaded.
+2024-05-10 04:53:29 - root - INFO - CommandHandler initialized.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.load' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'load' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.save' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'save' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.clear' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'clear' registered.
+2024-05-10 04:53:29 - root - INFO - Command 'history.delete' registered.
+2024-05-10 04:53:29 - root - INFO - History command 'delete' registered.
+2024-05-10 04:53:29 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 04:53:29 - root - INFO - Executing command: substract
+2024-05-10 04:53:29 - root - INFO - Executing SubtractCommand
+2024-05-10 04:53:29 - root - ERROR - Error in SubtractCommand: Invalid input for numbers.
+2024-05-10 04:53:29 - root - INFO - Executing command: three
+2024-05-10 04:53:29 - root - WARNING - No such command: three
+2024-05-10 04:53:29 - root - INFO - Application exit.
+2024-05-10 04:53:29 - root - INFO - Application shutdown.
+2024-05-10 05:13:12 - root - INFO - Logging configured.
+2024-05-10 05:13:12 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:12 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:12 - root - INFO - Logging configured.
+2024-05-10 05:13:12 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:12 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:12 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:12 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:12 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:12 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:12 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:12 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:13 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:13 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:13 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:13 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:13 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:13 - root - INFO - Application exit.
+2024-05-10 05:13:13 - root - INFO - Application shutdown.
+2024-05-10 05:13:13 - root - INFO - Logging configured.
+2024-05-10 05:13:13 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:13 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:13 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:13 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:13 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:13 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:13 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:13 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:13 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:13 - root - INFO - Executing command: unknown_command
+2024-05-10 05:13:13 - root - WARNING - No such command: unknown_command
+2024-05-10 05:13:13 - root - INFO - Application exit.
+2024-05-10 05:13:13 - root - INFO - Application shutdown.
+2024-05-10 05:13:13 - root - INFO - Calculation history loaded from file. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Calculation history loaded from file. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_or_initialize_histor0\test_history.csv
+2024-05-10 05:13:14 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_or_initialize_histor0\test_history.csv
+2024-05-10 05:13:14 - root - INFO - Calculation history loaded from file. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 0, 0 = 0
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 1, 1 = 2
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 2, 2 = 4
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 3, 3 = 6
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 4, 4 = 8
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 5, 5 = 10
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 6, 6 = 12
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 7, 7 = 14
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 8, 8 = 16
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 9, 9 = 18
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 10, 10 = 20
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 11, 11 = 22
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 12, 12 = 24
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 13, 13 = 26
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 14, 14 = 28
+2024-05-10 05:13:14 - root - INFO - No existing calculation history found, initializing new history.
+2024-05-10 05:13:14 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_save_history0\test_history.csv
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_save_history0\test_history.csv
+2024-05-10 05:13:14 - root - INFO - Record added: Addition with 1, 1 = 2
+2024-05-10 05:13:14 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_save_history0\test_history.csv
+2024-05-10 05:13:16 - root - INFO - Calculation history loaded from file. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:16 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:16 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:16 - root - INFO - Record added: Addition with 1, 1 = 2
+2024-05-10 05:13:16 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:16 - root - INFO - Calculation history cleared.
+2024-05-10 05:13:16 - root - INFO - Calculation history loaded from file. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:16 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:16 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:16 - root - INFO - Record added: Addition with 1, 1 = 2
+2024-05-10 05:13:16 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:13:16 - root - INFO - Record deleted . Index: 0
+2024-05-10 05:13:16 - root - INFO - Calculation history loaded from file. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history0\test_history.csv
+2024-05-10 05:13:16 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history0\test_history.csv
+2024-05-10 05:13:16 - root - INFO - Calculation history reloaded. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history0\test_history.csv
+2024-05-10 05:13:16 - root - WARNING - Calculation history file is empty. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:16 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:16 - root - WARNING - Attempted to reload history, but calculation history file is empty. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:16 - root - INFO - Deleted records at indexes: 0
+2024-05-10 05:13:17 - root - INFO - Saving history...
+2024-05-10 05:13:17 - root - INFO - History saved successfully to C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:17 - root - INFO - Logging configured.
+2024-05-10 05:13:17 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:17 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:17 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:17 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:17 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:17 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:17 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:17 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:17 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:17 - root - INFO - Executing command: addition
+2024-05-10 05:13:17 - root - INFO - Executing AddCommand
+2024-05-10 05:13:17 - root - INFO - AddCommand execution successful: 3.0 + 5.0 = 8.0
+2024-05-10 05:13:18 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:18 - root - INFO - Record added: Addition with 3.0, 5.0 = 8.0
+2024-05-10 05:13:18 - root - INFO - Addition history updated with result: 8.0
+2024-05-10 05:13:18 - root - INFO - Application exit.
+2024-05-10 05:13:18 - root - INFO - Application shutdown.
+2024-05-10 05:13:18 - root - INFO - Logging configured.
+2024-05-10 05:13:18 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:18 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:18 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:18 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:18 - root - INFO - Executing command: addition
+2024-05-10 05:13:18 - root - INFO - Executing AddCommand
+2024-05-10 05:13:18 - root - INFO - AddCommand execution successful: 3.0 + 5.0 = 8.0
+2024-05-10 05:13:18 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:18 - root - INFO - Record added: Addition with 3.0, 5.0 = 8.0
+2024-05-10 05:13:18 - root - INFO - Addition history updated with result: 8.0
+2024-05-10 05:13:18 - root - INFO - Application exit.
+2024-05-10 05:13:18 - root - INFO - Application shutdown.
+2024-05-10 05:13:18 - root - INFO - Logging configured.
+2024-05-10 05:13:18 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:18 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:18 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:18 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:18 - root - INFO - Executing command: addition
+2024-05-10 05:13:18 - root - INFO - Executing AddCommand
+2024-05-10 05:13:18 - root - INFO - AddCommand execution successful: -3.0 + -5.0 = -8.0
+2024-05-10 05:13:18 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:18 - root - INFO - Record added: Addition with -3.0, -5.0 = -8.0
+2024-05-10 05:13:18 - root - INFO - Addition history updated with result: -8.0
+2024-05-10 05:13:18 - root - INFO - Application exit.
+2024-05-10 05:13:18 - root - INFO - Application shutdown.
+2024-05-10 05:13:18 - root - INFO - Logging configured.
+2024-05-10 05:13:18 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:18 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:18 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:18 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:18 - root - INFO - Executing command: addition
+2024-05-10 05:13:18 - root - INFO - Executing AddCommand
+2024-05-10 05:13:18 - root - INFO - AddCommand execution successful: 3.0 + -3.0 = 0.0
+2024-05-10 05:13:18 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:18 - root - INFO - Record added: Addition with 3.0, -3.0 = 0.0
+2024-05-10 05:13:18 - root - INFO - Addition history updated with result: 0.0
+2024-05-10 05:13:18 - root - INFO - Application exit.
+2024-05-10 05:13:18 - root - INFO - Application shutdown.
+2024-05-10 05:13:18 - root - INFO - Logging configured.
+2024-05-10 05:13:18 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:18 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:18 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:18 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:18 - root - INFO - Executing command: addition
+2024-05-10 05:13:18 - root - INFO - Executing AddCommand
+2024-05-10 05:13:18 - root - INFO - AddCommand execution successful: 123456789.0 + 987654321.0 = 1111111110.0
+2024-05-10 05:13:18 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:18 - root - INFO - Record added: Addition with 123456789.0, 987654321.0 = 1111111110.0
+2024-05-10 05:13:18 - root - INFO - Addition history updated with result: 1111111110.0
+2024-05-10 05:13:18 - root - INFO - Application exit.
+2024-05-10 05:13:18 - root - INFO - Application shutdown.
+2024-05-10 05:13:18 - root - INFO - Logging configured.
+2024-05-10 05:13:18 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:18 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:18 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:18 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:18 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:18 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:18 - root - INFO - Executing command: addition
+2024-05-10 05:13:18 - root - INFO - Executing AddCommand
+2024-05-10 05:13:18 - root - INFO - AddCommand execution successful: 3.5 + 2.5 = 6.0
+2024-05-10 05:13:18 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:18 - root - INFO - Record added: Addition with 3.5, 2.5 = 6.0
+2024-05-10 05:13:18 - root - INFO - Addition history updated with result: 6.0
+2024-05-10 05:13:18 - root - INFO - Application exit.
+2024-05-10 05:13:18 - root - INFO - Application shutdown.
+2024-05-10 05:13:19 - root - INFO - Logging configured.
+2024-05-10 05:13:19 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:19 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:19 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:19 - root - INFO - Executing command: addition
+2024-05-10 05:13:19 - root - INFO - Executing AddCommand
+2024-05-10 05:13:19 - root - ERROR - Error in AddCommand: Invalid input for numbers.
+2024-05-10 05:13:19 - root - INFO - Executing command: 5
+2024-05-10 05:13:19 - root - WARNING - No such command: 5
+2024-05-10 05:13:19 - root - INFO - Application exit.
+2024-05-10 05:13:19 - root - INFO - Application shutdown.
+2024-05-10 05:13:19 - root - INFO - Logging configured.
+2024-05-10 05:13:19 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:19 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:19 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:19 - root - INFO - Executing command: divide
+2024-05-10 05:13:19 - root - INFO - Executing DivideCommand
+2024-05-10 05:13:19 - root - INFO - DivideCommand execution successful: 10.0 / 2.0 = 5.0
+2024-05-10 05:13:19 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:19 - root - INFO - Record added: Divide with 10.0, 2.0 = 5.0
+2024-05-10 05:13:19 - root - INFO - Division history updated with result: 5.0
+2024-05-10 05:13:19 - root - INFO - Application exit.
+2024-05-10 05:13:19 - root - INFO - Application shutdown.
+2024-05-10 05:13:19 - root - INFO - Logging configured.
+2024-05-10 05:13:19 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:19 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:19 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:19 - root - INFO - Executing command: divide
+2024-05-10 05:13:19 - root - INFO - Executing DivideCommand
+2024-05-10 05:13:19 - root - ERROR - Attempted division by zero.
+2024-05-10 05:13:19 - root - INFO - Application exit.
+2024-05-10 05:13:19 - root - INFO - Application shutdown.
+2024-05-10 05:13:19 - root - INFO - Logging configured.
+2024-05-10 05:13:19 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:19 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:19 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:19 - root - INFO - Executing command: divide
+2024-05-10 05:13:19 - root - INFO - Executing DivideCommand
+2024-05-10 05:13:19 - root - ERROR - Invalid input for numbers.
+2024-05-10 05:13:19 - root - INFO - Executing command: five
+2024-05-10 05:13:19 - root - WARNING - No such command: five
+2024-05-10 05:13:19 - root - INFO - Application exit.
+2024-05-10 05:13:19 - root - INFO - Application shutdown.
+2024-05-10 05:13:19 - root - INFO - Logging configured.
+2024-05-10 05:13:19 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:19 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:19 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:19 - root - INFO - Executing command: divide
+2024-05-10 05:13:19 - root - INFO - Executing DivideCommand
+2024-05-10 05:13:19 - root - INFO - DivideCommand execution successful: -10.0 / 2.0 = -5.0
+2024-05-10 05:13:19 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:19 - root - INFO - Record added: Divide with -10.0, 2.0 = -5.0
+2024-05-10 05:13:19 - root - INFO - Division history updated with result: -5.0
+2024-05-10 05:13:19 - root - INFO - Application exit.
+2024-05-10 05:13:19 - root - INFO - Application shutdown.
+2024-05-10 05:13:19 - root - INFO - Logging configured.
+2024-05-10 05:13:19 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:19 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:19 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:19 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:19 - root - INFO - Executing command: divide
+2024-05-10 05:13:19 - root - INFO - Executing DivideCommand
+2024-05-10 05:13:19 - root - INFO - DivideCommand execution successful: 10.0 / -2.0 = -5.0
+2024-05-10 05:13:19 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:19 - root - INFO - Record added: Divide with 10.0, -2.0 = -5.0
+2024-05-10 05:13:19 - root - INFO - Division history updated with result: -5.0
+2024-05-10 05:13:19 - root - INFO - Application exit.
+2024-05-10 05:13:19 - root - INFO - Application shutdown.
+2024-05-10 05:13:19 - root - INFO - Logging configured.
+2024-05-10 05:13:19 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:19 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:19 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:20 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:20 - root - INFO - Executing command: divide
+2024-05-10 05:13:20 - root - INFO - Executing DivideCommand
+2024-05-10 05:13:20 - root - INFO - DivideCommand execution successful: -10.0 / -2.0 = 5.0
+2024-05-10 05:13:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:20 - root - INFO - Record added: Divide with -10.0, -2.0 = 5.0
+2024-05-10 05:13:20 - root - INFO - Division history updated with result: 5.0
+2024-05-10 05:13:20 - root - INFO - Application exit.
+2024-05-10 05:13:20 - root - INFO - Application shutdown.
+2024-05-10 05:13:20 - root - INFO - Displaying available commands to the user.
+2024-05-10 05:13:20 - root - INFO - Logging configured.
+2024-05-10 05:13:20 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:20 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:20 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:20 - root - INFO - Executing command: multiplication
+2024-05-10 05:13:20 - root - INFO - Executing MultiplyCommand
+2024-05-10 05:13:20 - root - INFO - MultiplyCommand execution successful: 4.0 * 5.0 = 20.0
+2024-05-10 05:13:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:20 - root - INFO - Record added: Multiplication with 4.0, 5.0 = 20.0
+2024-05-10 05:13:20 - root - INFO - Multiplication history updated with result: 20.0
+2024-05-10 05:13:20 - root - INFO - Application exit.
+2024-05-10 05:13:20 - root - INFO - Application shutdown.
+2024-05-10 05:13:20 - root - INFO - Logging configured.
+2024-05-10 05:13:20 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:20 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:20 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:20 - root - INFO - Executing command: multiplication
+2024-05-10 05:13:20 - root - INFO - Executing MultiplyCommand
+2024-05-10 05:13:20 - root - INFO - MultiplyCommand execution successful: 0.0 * 5.0 = 0.0
+2024-05-10 05:13:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:20 - root - INFO - Record added: Multiplication with 0.0, 5.0 = 0.0
+2024-05-10 05:13:20 - root - INFO - Multiplication history updated with result: 0.0
+2024-05-10 05:13:20 - root - INFO - Application exit.
+2024-05-10 05:13:20 - root - INFO - Application shutdown.
+2024-05-10 05:13:20 - root - INFO - Logging configured.
+2024-05-10 05:13:20 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:20 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:20 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:20 - root - INFO - Executing command: multiplication
+2024-05-10 05:13:20 - root - INFO - Executing MultiplyCommand
+2024-05-10 05:13:20 - root - INFO - MultiplyCommand execution successful: -3.0 * 6.0 = -18.0
+2024-05-10 05:13:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:20 - root - INFO - Record added: Multiplication with -3.0, 6.0 = -18.0
+2024-05-10 05:13:20 - root - INFO - Multiplication history updated with result: -18.0
+2024-05-10 05:13:20 - root - INFO - Application exit.
+2024-05-10 05:13:20 - root - INFO - Application shutdown.
+2024-05-10 05:13:20 - root - INFO - Logging configured.
+2024-05-10 05:13:20 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:20 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:20 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:20 - root - INFO - Executing command: multiplication
+2024-05-10 05:13:20 - root - INFO - Executing MultiplyCommand
+2024-05-10 05:13:20 - root - INFO - MultiplyCommand execution successful: 123456789.0 * 987654321.0 = 1.2193263111263526e+17
+2024-05-10 05:13:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:20 - root - INFO - Record added: Multiplication with 123456789.0, 987654321.0 = 1.2193263111263526e+17
+2024-05-10 05:13:20 - root - INFO - Multiplication history updated with result: 1.2193263111263526e+17
+2024-05-10 05:13:20 - root - INFO - Application exit.
+2024-05-10 05:13:20 - root - INFO - Application shutdown.
+2024-05-10 05:13:20 - root - INFO - Logging configured.
+2024-05-10 05:13:20 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:20 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:20 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:20 - root - INFO - Executing command: multiplication
+2024-05-10 05:13:20 - root - INFO - Executing MultiplyCommand
+2024-05-10 05:13:20 - root - INFO - MultiplyCommand execution successful: 3.5 * 2.0 = 7.0
+2024-05-10 05:13:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:20 - root - INFO - Record added: Multiplication with 3.5, 2.0 = 7.0
+2024-05-10 05:13:20 - root - INFO - Multiplication history updated with result: 7.0
+2024-05-10 05:13:20 - root - INFO - Application exit.
+2024-05-10 05:13:20 - root - INFO - Application shutdown.
+2024-05-10 05:13:20 - root - INFO - Logging configured.
+2024-05-10 05:13:20 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:20 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:20 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:20 - root - INFO - Executing command: multiplication
+2024-05-10 05:13:20 - root - INFO - Executing MultiplyCommand
+2024-05-10 05:13:20 - root - ERROR - Error in MultiplyCommand: Invalid input for numbers.
+2024-05-10 05:13:20 - root - INFO - Executing command: 5
+2024-05-10 05:13:20 - root - WARNING - No such command: 5
+2024-05-10 05:13:20 - root - INFO - Application exit.
+2024-05-10 05:13:20 - root - INFO - Application shutdown.
+2024-05-10 05:13:20 - root - INFO - Logging configured.
+2024-05-10 05:13:20 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:20 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:20 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:20 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:20 - root - INFO - Executing command: substract
+2024-05-10 05:13:20 - root - INFO - Executing SubtractCommand
+2024-05-10 05:13:20 - root - INFO - SubtractCommand execution successful: 10.0 - 3.0 = 7.0
+2024-05-10 05:13:20 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:20 - root - INFO - Record added: Divide with 10.0, 3.0 = 7.0
+2024-05-10 05:13:20 - root - INFO - Subtraction history updated with result: 7.0
+2024-05-10 05:13:20 - root - INFO - Application exit.
+2024-05-10 05:13:20 - root - INFO - Application shutdown.
+2024-05-10 05:13:20 - root - INFO - Logging configured.
+2024-05-10 05:13:20 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:20 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:20 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:21 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:21 - root - INFO - Executing command: substract
+2024-05-10 05:13:21 - root - INFO - Executing SubtractCommand
+2024-05-10 05:13:21 - root - INFO - SubtractCommand execution successful: 10.0 - 3.0 = 7.0
+2024-05-10 05:13:21 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:21 - root - INFO - Record added: Divide with 10.0, 3.0 = 7.0
+2024-05-10 05:13:21 - root - INFO - Subtraction history updated with result: 7.0
+2024-05-10 05:13:21 - root - INFO - Application exit.
+2024-05-10 05:13:21 - root - INFO - Application shutdown.
+2024-05-10 05:13:21 - root - INFO - Logging configured.
+2024-05-10 05:13:21 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:21 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:21 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:21 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:21 - root - INFO - Executing command: substract
+2024-05-10 05:13:21 - root - INFO - Executing SubtractCommand
+2024-05-10 05:13:21 - root - INFO - SubtractCommand execution successful: -5.0 - 3.0 = -8.0
+2024-05-10 05:13:21 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:21 - root - INFO - Record added: Divide with -5.0, 3.0 = -8.0
+2024-05-10 05:13:21 - root - INFO - Subtraction history updated with result: -8.0
+2024-05-10 05:13:21 - root - INFO - Application exit.
+2024-05-10 05:13:21 - root - INFO - Application shutdown.
+2024-05-10 05:13:21 - root - INFO - Logging configured.
+2024-05-10 05:13:21 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:21 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:21 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:21 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:21 - root - INFO - Executing command: substract
+2024-05-10 05:13:21 - root - INFO - Executing SubtractCommand
+2024-05-10 05:13:21 - root - INFO - SubtractCommand execution successful: 5.0 - -3.0 = 8.0
+2024-05-10 05:13:21 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:21 - root - INFO - Record added: Divide with 5.0, -3.0 = 8.0
+2024-05-10 05:13:21 - root - INFO - Subtraction history updated with result: 8.0
+2024-05-10 05:13:21 - root - INFO - Application exit.
+2024-05-10 05:13:21 - root - INFO - Application shutdown.
+2024-05-10 05:13:21 - root - INFO - Logging configured.
+2024-05-10 05:13:21 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:21 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:21 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:21 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:21 - root - INFO - Executing command: substract
+2024-05-10 05:13:21 - root - INFO - Executing SubtractCommand
+2024-05-10 05:13:21 - root - INFO - SubtractCommand execution successful: 0.0 - 5.0 = -5.0
+2024-05-10 05:13:21 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:21 - root - INFO - Record added: Divide with 0.0, 5.0 = -5.0
+2024-05-10 05:13:21 - root - INFO - Subtraction history updated with result: -5.0
+2024-05-10 05:13:21 - root - INFO - Application exit.
+2024-05-10 05:13:21 - root - INFO - Application shutdown.
+2024-05-10 05:13:21 - root - INFO - Logging configured.
+2024-05-10 05:13:21 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:21 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:21 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:21 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:21 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:21 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:21 - root - INFO - Executing command: substract
+2024-05-10 05:13:21 - root - INFO - Executing SubtractCommand
+2024-05-10 05:13:21 - root - INFO - SubtractCommand execution successful: 5.0 - 0.0 = 5.0
+2024-05-10 05:13:21 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:21 - root - INFO - Record added: Divide with 5.0, 0.0 = 5.0
+2024-05-10 05:13:21 - root - INFO - Subtraction history updated with result: 5.0
+2024-05-10 05:13:21 - root - INFO - Application exit.
+2024-05-10 05:13:21 - root - INFO - Application shutdown.
+2024-05-10 05:13:22 - root - INFO - Logging configured.
+2024-05-10 05:13:22 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:22 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:22 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:22 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:22 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:22 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:22 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:22 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:22 - root - INFO - Executing command: substract
+2024-05-10 05:13:22 - root - INFO - Executing SubtractCommand
+2024-05-10 05:13:22 - root - INFO - SubtractCommand execution successful: 123456789.0 - 987654321.0 = -864197532.0
+2024-05-10 05:13:22 - root - INFO - Calculation history saved. File path: C:\Users\USER\AppData\Local\Temp\pytest-of-USER\pytest-1\test_load_history_failure0\test_history.csv
+2024-05-10 05:13:22 - root - INFO - Record added: Divide with 123456789.0, 987654321.0 = -864197532.0
+2024-05-10 05:13:22 - root - INFO - Subtraction history updated with result: -864197532.0
+2024-05-10 05:13:22 - root - INFO - Application exit.
+2024-05-10 05:13:22 - root - INFO - Application shutdown.
+2024-05-10 05:13:22 - root - INFO - Logging configured.
+2024-05-10 05:13:22 - root - INFO - Environment variables  loaded.
+2024-05-10 05:13:22 - root - INFO - CommandHandler initialized.
+2024-05-10 05:13:22 - root - INFO - Command 'addition' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'divide' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'exit' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'greet' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'menu' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'substract' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:13:22 - root - INFO - History command 'load' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:13:22 - root - INFO - History command 'save' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:13:22 - root - INFO - History command 'clear' registered.
+2024-05-10 05:13:22 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:13:22 - root - INFO - History command 'delete' registered.
+2024-05-10 05:13:22 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:13:22 - root - INFO - Executing command: substract
+2024-05-10 05:13:22 - root - INFO - Executing SubtractCommand
+2024-05-10 05:13:22 - root - ERROR - Error in SubtractCommand: Invalid input for numbers.
+2024-05-10 05:13:22 - root - INFO - Executing command: three
+2024-05-10 05:13:22 - root - WARNING - No such command: three
+2024-05-10 05:13:22 - root - INFO - Application exit.
+2024-05-10 05:13:22 - root - INFO - Application shutdown.
+2024-05-10 05:32:30 - root - INFO - Logging configured.
+2024-05-10 05:32:30 - root - INFO - Environment variables  loaded.
+2024-05-10 05:32:30 - root - INFO - CommandHandler initialized.
+2024-05-10 05:32:43 - root - INFO - Command 'addition' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'addition' from plugin 'addition' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'divide' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'exit' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'goodbye' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'greet' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'menu' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'multiplication' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'multiplication' from plugin 'multiplication' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'substract' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'substract' from plugin 'substract' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'history.load' registered.
+2024-05-10 05:32:43 - root - INFO - History command 'load' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'history.save' registered.
+2024-05-10 05:32:43 - root - INFO - History command 'save' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'history.clear' registered.
+2024-05-10 05:32:43 - root - INFO - History command 'clear' registered.
+2024-05-10 05:32:43 - root - INFO - Command 'history.delete' registered.
+2024-05-10 05:32:43 - root - INFO - History command 'delete' registered.
+2024-05-10 05:32:43 - root - INFO - Application started. Type 'exit' to exit.
+2024-05-10 05:32:54 - root - INFO - Executing command: addition
+2024-05-10 05:32:54 - root - INFO - Executing AddCommand
+2024-05-10 05:33:02 - root - INFO - AddCommand execution successful: 45.0 + 65.0 = 110.0
+2024-05-10 05:33:05 - root - INFO - Calculation history loaded from file. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:33:05 - root - INFO - CalculationHistory initialized with history file: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:33:06 - root - INFO - Calculation history saved. File path: C:\Users\USER\Documents\midterm-2024-calc\calculation_history.csv
+2024-05-10 05:33:06 - root - INFO - Record added: Addition with 45.0, 65.0 = 110.0
+2024-05-10 05:33:06 - root - INFO - Addition history updated with result: 110.0
+2024-05-10 05:33:46 - root - INFO - Executing command: menu
+2024-05-10 05:33:46 - root - INFO - Displaying available commands to the user.
+2024-05-10 05:34:05 - root - INFO - Executing command: history.clear
+2024-05-10 05:34:05 - root - INFO - History Deleted
+2024-05-10 05:34:05 - root - INFO - History Header updated
+2024-05-10 05:34:32 - root - INFO - Executing command: goodbye
+2024-05-10 05:34:32 - root - INFO - Goodbye
+2024-05-10 05:34:41 - root - INFO - Application exit.
+2024-05-10 05:34:41 - root - INFO - Application shutdown.
