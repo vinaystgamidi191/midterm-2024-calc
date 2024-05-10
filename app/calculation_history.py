@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 import logging
 
 class CalculationHistory:
+
     _instance = None
 
     def __new__(cls):
@@ -51,6 +52,7 @@ class CalculationHistory:
         self.save_history()
         logging.info(f"Record added: {operation} with {num1}, {num2} = {result}")
 
+
     def save_history(self):
         os.makedirs(os.path.dirname(self.history_file), exist_ok=True)
         self.history_df.to_csv(self.history_file, index=False)
@@ -74,10 +76,10 @@ class CalculationHistory:
         try:
             self.history_df = self.history_df.drop(index).reset_index(drop=True)
             self.save_history()
-            logging.info(f"Record deleted. Index: {index}")
+            logging.info(f"Record deleted . Index: {index}")
             return True
         except KeyError:
-            logging.warning(f"Attempted to delete record, but index does not exist. Index: {index}")
+            logging.warning(f"Attempted to delete record, but index does not exist . Index: {index}")
             return False
 
     @classmethod
