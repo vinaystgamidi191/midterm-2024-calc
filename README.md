@@ -6,6 +6,7 @@ complex calculator
 3. Create a virtual environment
 4. Activate the virtual environment (VE)
 5. Install Requirements
+6. run 'main.py' 
 
 ## Test Commands
 - `pytest` run all tests
