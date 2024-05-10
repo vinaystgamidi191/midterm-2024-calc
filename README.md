@@ -50,6 +50,8 @@ commands to handle the data:
 
 The application configuration details, development, and testing environment variables are stored in .env file.
 
+https://github.com/vinaystgamidi191/midterm-2024-calc/blob/280093897b454e2215b02bed8020191d51028163/app/__init__.py#L32C1-L40C1 
+
 
 ### REPL Interface:
 
@@ -68,31 +70,36 @@ The provided implementation demonstrates the use of several design patterns:
 1. **Singleton Pattern**:
    The `App` class serves as a singleton by ensuring that only one instance of the class can exist within the application. This is achieved by having a private constructor and a static method (`__init__`) that controls the instantiation of the class.
 
+https://github.com/vinaystgamidi191/midterm-2024-calc/blob/280093897b454e2215b02bed8020191d51028163/app/__init__.py#L11-L19
 
 
 2. **Factory Method Pattern**:
    The `CommandHandler` class acts as a factory for creating command objects (`Command` instances). It provides a method `register_command` to register different types of commands and another method `execute_command` to execute these commands based on their names.
 
+https://github.com/vinaystgamidi191/midterm-2024-calc/blob/280093897b454e2215b02bed8020191d51028163/app/__init__.py#L10-L32
  
 
 3. **Command Pattern**:
    The `Command` abstract base class defines an interface for executing commands (`execute` method). Concrete command classes (for example `AddCommand`) implement this interface, encapsulating specific operations. This pattern decouples the sender (invoker of commands) from the receiver (objects performing the actions), allowing for extensibility and flexibility.
 
-  
+  https://github.com/vinaystgamidi191/midterm-2024-calc/blob/280093897b454e2215b02bed8020191d51028163/app/__init__.py#L8-L10
 
 4. **Iterator Pattern**:
    The `load_plugins` method in the `App` class iterates over all modules in the `app.plugins` package using `pkgutil.iter_modules`. It dynamically loads and initializes plugin classes, demonstrating the use of the iterator pattern to traverse through a collection of items (modules) without exposing the underlying representation.
 
-  
+  https://github.com/vinaystgamidi191/midterm-2024-calc/blob/280093897b454e2215b02bed8020191d51028163/app/__init__.py#L40-L53
 
 5. **Template Method Pattern**: The `Command` class defines an abstract method `execute()`, which concrete command classes must implement. This enforces a template for executing commands, allowing for customization of specific operations while maintaining a consistent interface across different commands.
+
+
 
 6. **Strategy Pattern** (implied): While not explicitly implemented as a separate class, the `execute()` method in each concrete command class represents a strategy for performing specific operations. By encapsulating these strategies within command objects, the application can dynamically select and execute different strategies at runtime.
 
 ### Try/Catch/Except
 Implemented exceptions to illustrate "Look Before You Leap" (LBYL) and "Easier to Ask for Forgiveness than Permission" (EAFP)
 
- 
+ https://github.com/vinaystgamidi191/midterm-2024-calc/blob/280093897b454e2215b02bed8020191d51028163/app/__init__.py#L8-L37
+
   ## Testing and Code Quality
 
 ### Comprehensive tests using pytest:
@@ -119,3 +126,4 @@ Dynamic logging configuration through environment variables is performed. A prof
 - `logging.info`- logs what happened in the line of code
 - `logging.error` - logs the error that occurred after the line of code
 
+https://github.com/vinaystgamidi191/midterm-2024-calc/blob/280093897b454e2215b02bed8020191d51028163/app/__init__.py#L8-L19
