@@ -3,10 +3,11 @@ import os
 import pkgutil
 import importlib
 import sys
-from app.commands import CommandHandler, Command
+from app.command import CommandHandler, Command
 from dotenv import load_dotenv
 import logging
 import logging.config
+
 
 class App:
    def __init__(self):
@@ -27,9 +28,10 @@ class App:
        logging.info("Logging configured.")
 
 
+
    def load_environment_variables(self):
        settings = {key: value for key, value in os.environ.items()}
-       logging.info("Environment variables loaded.")
+       logging.info("Environment variables  loaded.")
        return settings
 
 
